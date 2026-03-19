@@ -1,3 +1,5 @@
+[![Build and test of Java project](https://github.com/martin-lumbreras/pipeline-ci-githubactions-java/actions/workflows/main.yml/badge.svg)](https://github.com/martin-lumbreras/pipeline-ci-githubactions-java/actions/workflows/main.yml)
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
